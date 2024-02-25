@@ -12,7 +12,7 @@ I'm a passionate web developer with expertise in HTML, CSS, JavaScript,and React
 - CSS3
 - JavaScript (ES6+)
 - PHP
-- SQL
+- Java
 - Python
 - React
 - C
