@@ -37,6 +37,10 @@ I'm a passionate web developer with expertise in HTML, CSS, JavaScript,and React
 - [Project 3](link-to-project-3): Sprinkle Dance Academy:
   * Developed a dynamci website to provide an engaging online platform for dance enthusiasts using HTML, CSS and JavaScript.
 
+- [Project 3](link-to-project-3): TextUtils:
+  * TextUtils is a React application designed for text manipulation tasks. Features include text transformation, character count and word frequency analysis. Demonstrate proficiency in React Js and frontend development. 
+    
+
 ## 💬 Get in Touch
 
 - Email: vikasyelgar194@gmail.com
